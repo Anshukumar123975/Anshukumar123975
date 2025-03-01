@@ -1,6 +1,6 @@
 # 🚀 Anshu Kumar | Full Stack Developer
 ### 🌌 Passionate Developer | Open source contributor | Web Dev | Competitive Programmer 🚀
-### 💻 Building Scalable Web Apps | Crafting Elegant Code | Solving Real-World Problems
+### 💻 Building Scalable Web Apps | Solving Real-World Problems
 
 🔹 About Me
 🎓 Education: Second-year student at IIIT Ranchi, Jharkhand, India
