@@ -2,11 +2,11 @@
 ### 🌌 Passionate Developer | Open source contributor | Web Dev | Competitive Programmer 🚀
 ### 💻 Building Scalable Websites | Solving Real-World Problems
 
-🔹 About Me
-🎓 Education: Second-year student at IIIT Ranchi, Jharkhand, India
-🌍 Location: India
-🎯 Interests: Web Development, Open Source, AI, Competitive Programming
-🏆 Achievements: 2x Hackathon Winner 🏅, Qualified for National Round in Smart India Hackathon 🇮🇳, Passionate for contributing in Open Source along with a good Competitive Programming skill.
+### About Me
+🔹🎓 Education: Second-year student at IIIT Ranchi, Jharkhand, India
+🔹🌍 Location: India
+🔹🎯 Interests: Web Development, Open Source, AI, Competitive Programming
+🔹🏆 Achievements: 2x Hackathon Winner 🏅, Qualified for National Round in Smart India Hackathon 🇮🇳, Passionate for contributing in Open Source along with a good Competitive Programming skill.
 
 🚀 Tech Stack
 🔹 Programming Language: C/C++, Javascript
