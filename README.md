@@ -12,7 +12,7 @@
 
 🔹🏆 Achievements: 2x Hackathon Winner 🏅, Passionate for contributing in Open Source.
 
-🚀 Tech Stack
+### Tech Stack
 
 🔹 Programming Language: C/C++, Javascript
 
