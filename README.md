@@ -1,6 +1,6 @@
 # 🚀 Anshu Kumar | Full Stack Developer
-### 🌌 Passionate Developer | Open source contributor | Web Dev | Competitive Programmer 🚀
-### 💻 Building Scalable Websites | Solving Real-World Problems
+### Passionate Backend Developer 🚀
+### Building Scalable Websites | Solving Real-World Problems
 
 ### About Me
 
