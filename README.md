@@ -4,7 +4,7 @@
 
 ### About Me
 
-🔹🎓 Education: Second-year student at IIIT Ranchi, Jharkhand, India
+🔹🎓 Education: Third-year student at IIIT Ranchi, Jharkhand, India
 
 🔹🌍 Location: India
 
