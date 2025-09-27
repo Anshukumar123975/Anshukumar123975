@@ -14,17 +14,17 @@
 
 ### Tech Stack
 
-🔹 Programming Language: C/C++, Javascript
+🔹 Programming Language: C/C++, Javascript, a bit of Rust
+
+🔹 Backend: Node JS, Express JS, Socket.io, Cucumber(Gherkin)
+
+🔹 Database: MongoDB, Redis
+
+🔹 Version Control: Git & Github
 
 🔹 Frontend: HTML, React JS
 
 🔹 Styling: Vanilla CSS, Tailwind CSS
-
-🔹 Backend: Node JS, Express JS, Socket.io
-
-🔹 Database: MongoDB
-
-🔹 Version Control: Git & Github
 
 📫 Connect With Me
 📩 Email: [anshupat2020@gmail.com](anshupat2020@gmail.com)
