@@ -1,4 +1,4 @@
-# 🚀 Anshu Kumar | Open Source Contributor & Backend Developer
+# Anshu Kumar | Open Source Contributor & Backend Developer 🚀
 ### Passionate Backend Developer 🚀
 ### Building Scalable Websites | Solving Real-World Problems
 
