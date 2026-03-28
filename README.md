@@ -8,17 +8,17 @@
 
 🔹🌍 Location: India
 
-🔹🎯 Interests: Web Development, Open Source, AI, Competitive Programming
+🔹🎯 Interests: Multi agent systems, Web Development, Open Source, AI, Competitive Programming
 
 🔹🏆 Achievements: 2x Hackathon Winner 🏅, Passionate for contributing in Open Source.
 
 ### Tech Stack
 
-🔹 Programming Language: C/C++, Javascript, a bit of Rust
+🔹 Programming Language: Python, C/C++, Javascript, a bit of Rust
 
-🔹 Backend: Node JS, Express JS, Socket.io, Cucumber(Gherkin)
+🔹 Backend: FastAPI, Node JS, Express JS, Socket.io, Cucumber(Gherkin)
 
-🔹 Database: MongoDB, Redis
+🔹 Database: PostgreSQL, MongoDB, Redis
 
 🔹 Version Control: Git & Github
 
