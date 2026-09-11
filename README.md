@@ -14,7 +14,7 @@ I enjoy working on problems around agent orchestration, dynamic RAG, backend arc
   - Worked on execution state, retry/loop handling, model routing, and orchestration reliability
   - Helped reduce a production workflow from ~30 minutes to ~10 minutes
 
-- **Google Summer of Code 2025 — Accord Project, Linux Foundation**
+- **Google Summer of Code 2025 — Accord Project**
   - Built cross-runtime conformance testing infrastructure
   - Worked across JavaScript, Rust, and C#
   - Debugged issues in an existing large codebase and contributed fixes
