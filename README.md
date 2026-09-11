@@ -1,36 +1,90 @@
-# Anshu Kumar | Open Source Contributor & Backend Developer 🚀
-### Passionate Backend Developer 🚀
-### Building Scalable Websites | Solving Real-World Problems
+# Anshu Kumar
 
-### About Me
+### AI Backend / Agentic Systems Engineer
 
-🔹🎓 Education: Third-year student at IIIT Ranchi, Jharkhand, India
+4th-year Computer Science student at IIIT Ranchi, focused on building reliable backend and AI systems for production.
 
-🔹🌍 Location: India
+I enjoy working on problems around agent orchestration, dynamic RAG, backend architecture, distributed workflows, and production reliability.
 
-🔹🎯 Interests: Multi agent systems, Web Development, Open Source, AI, Competitive Programming
+## Experience
 
-🔹🏆 Achievements: 2x Hackathon Winner 🏅, Passionate for contributing in Open Source.
+- **SDE Intern — OptimagineAI**
+  - Worked on production multi-agent orchestration and dynamic RAG pipelines
+  - Built with FastAPI, PostgreSQL, Redis, Docker, AWS, and LangGraph
+  - Worked on execution state, retry/loop handling, model routing, and orchestration reliability
+  - Helped reduce a production workflow from ~30 minutes to ~10 minutes
 
-### Tech Stack
+- **Google Summer of Code 2025 — Accord Project, Linux Foundation**
+  - Built cross-runtime conformance testing infrastructure
+  - Worked across JavaScript, Rust, and C#
+  - Debugged issues in an existing large codebase and contributed fixes
+  - Integrated the conformance suite into CI workflows
 
-🔹 Programming Language: Python, C/C++, Javascript, a bit of Rust
+## Current Focus
 
-🔹 Backend: FastAPI, Node JS, Express JS, Socket.io, Cucumber(Gherkin)
+- AI Backend Engineering
+- Agentic Systems
+- Production RAG & Retrieval Systems
+- LLM Evals & Reliability
+- Backend / Distributed Systems
+- AI Infrastructure & Observability
 
-🔹 Database: PostgreSQL, MongoDB, Redis
+## Tech Stack
 
-🔹 Version Control: Git & Github
+**Languages**
+- Python
+- JavaScript / TypeScript
+- C / C++
+- Rust
 
-🔹 Frontend: HTML, React JS
+**Backend**
+- FastAPI
+- Node.js
+- Express.js
+- REST APIs
+- WebSockets / SSE
 
-🔹 Styling: Vanilla CSS, Tailwind CSS
+**AI / LLM Systems**
+- LangGraph
+- LangChain
+- RAG
+- Vector Search
+- pgvector
+- LLM APIs
+- Tool Calling
+- Multi-Agent Systems
 
-📫 Connect With Me
-📩 Email: [anshupat2020@gmail.com](anshupat2020@gmail.com)
-💼 LinkedIn: [Anshu Kumar](https://www.linkedin.com/in/anshu-kumar-2117b827b/)
+**Databases & Infrastructure**
+- PostgreSQL
+- Redis
+- MongoDB
+- Docker
+- AWS
+- GitHub Actions
 
-<!--
-**Anshukumar123975/Anshukumar123975** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Frontend**
+- React
+- HTML / CSS
+- Tailwind CSS
 
+## What I'm Interested In
 
+I'm particularly interested in engineering problems where AI systems meet production infrastructure:
+
+- Stateful agent workflows
+- Agent reliability and failure handling
+- Retrieval and context systems
+- LLM evaluation and regression testing
+- Background processing and distributed workflows
+- Backend performance and scalability
+
+## Open Source
+
+Google Summer of Code 2025 contributor with the **Accord Project under the Linux Foundation**.
+
+I enjoy working in existing codebases, understanding how systems behave, finding edge cases, and shipping changes through review.
+
+## Connect
+
+- **Email:** [anshupat2020@gmail.com](mailto:anshupat2020@gmail.com)
+- **LinkedIn:** [Anshu Kumar](https://www.linkedin.com/in/anshu-kumar-2117b827b/)
