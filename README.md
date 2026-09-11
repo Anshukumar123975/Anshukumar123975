@@ -80,7 +80,7 @@ I'm particularly interested in engineering problems where AI systems meet produc
 
 ## Open Source
 
-Google Summer of Code 2025 contributor with the **Accord Project under the Linux Foundation**.
+Google Summer of Code 2025 contributor with the **Accord Project**.
 
 I enjoy working in existing codebases, understanding how systems behave, finding edge cases, and shipping changes through review.
 
